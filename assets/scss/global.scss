@@ -1,0 +1,56 @@
+.el-aside {
+    height: 100vh;
+    background-color: #FFF;
+    color: #333;
+    line-height: 200px;
+}
+.el-aside .logo {
+    background-color: rgb(11, 47, 102);
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    color: #FFF;
+}
+.el-main {
+    background-color: #fafbff;
+    color: #333;
+    text-align: center;
+    line-height: 160px;
+}
+.el-header, .el-footer {
+    background-color: #fafbff;
+    color: #000;
+    line-height: 60px;
+}
+
+/* Color */
+.cl-black {
+    color : #000;
+}
+
+.cl-gray {
+    color : #333;
+}
+
+/* cursor */
+.pointer {
+    cursor: pointer;
+}
+
+/* Reset */
+.clear {
+    clear: both;
+}
+
+/* margin */
+.mr-r-10 {
+    margin-right: 10px;
+}
+
+.mr-r-15 {
+    margin-right: 15px;
+}
+
+.mr-r-20 {
+    margin-right: 20px;
+}
